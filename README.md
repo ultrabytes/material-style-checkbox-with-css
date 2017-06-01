@@ -1,6 +1,6 @@
 # Material-Style-Checkbox-Css-Only   
 # Contributors: Charanpreet Singh
-# Demo link : http://www.bytesultra.com/demo/materialStyleCheckboxCssOnly  
+# Demo link : http://www.bytesultra.com/demo/materialStyleCheckboxRadioCssOnly  
 
 ## Purpoese of this Project 
 The main purpose of this project is just how to get a attractive Checkboxes with css only. 
