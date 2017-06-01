@@ -1,4 +1,4 @@
-# Material-Style-Checkbox-Css-Only   
+# Material-Style-Checkbox-Radio-Css-Only   
 # Contributors: Charanpreet Singh
 # Demo link : http://www.bytesultra.com/demo/materialStyleCheckboxRadioCssOnly  
 
