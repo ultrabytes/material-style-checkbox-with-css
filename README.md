@@ -8,7 +8,7 @@ The main purpose of this project is just how to get a attractive Checkboxes with
 
 ## Bugs and feature requests
 
-If you find a bug, please report it [here on Github](https://github.com/ultrabytes/material-style-checkbox-css-only/issues).
+If you find a bug, please report it [here on Github](https://github.com/ultrabytes/material-style-checkbox-radio-css-only/issues).
 
 Guidelines for bug reports:
 
