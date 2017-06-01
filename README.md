@@ -3,8 +3,7 @@
 # Demo link : http://www.bytesultra.com/demo/materialStyleCheckboxRadioCssOnly  
 
 ## Purpoese of this Project 
-The main purpose of this project is just how to get a attractive Checkboxes with css only. 
-
+The main purpose of this project is just how to get a attractive Checkboxes and radio buttons with css only. 
 
 ## Bugs and feature requests
 
